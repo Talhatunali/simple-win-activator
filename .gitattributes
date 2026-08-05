@@ -1,0 +1,9 @@
+*.woff binary
+*.htm linguist-vendored  
+public/*.html linguist-vendored
+src/*.astro linguist-detectable
+*.astro linguist-detectable
+build/* linguist-vendored
+*.min.css linguist-generated
+*.json linguist-detectable=false
+# eof a41a4898
